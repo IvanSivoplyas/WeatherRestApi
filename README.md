@@ -1,2 +1,7 @@
 # WeatherRestApi
-REST API and client for weather management
+Simple REST API and client for weather management
+
+Technology:
+Java 17
+Spring Framework
+REST template
